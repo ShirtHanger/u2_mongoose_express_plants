@@ -1,0 +1,8 @@
+At this point, once you push your initial seed file, 
+it is useless, you can delete it, but I'd prefer not to
+
+For BETTER LOGGING functionality, install morgan body-parser
+
+npm install morgan body-parser
+
+For FULL CRUD (Create, Read, Update, Delete) FUNCTIONALITY!
